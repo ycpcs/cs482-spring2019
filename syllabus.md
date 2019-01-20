@@ -12,7 +12,7 @@ CS 482 - Senior Software Project II
 
 **Meeting times:**
 
-- **Radio Telescope Project:**
+# **Radio Telescope Project:**
 * CS 482 Project Status Reports and MS Presentations/Demos: Wednesdays, 12:00 - 12:50 in KEC 118
 
 * Engineering Capstone 2 MS Presentations/Demos: Mondays, 12:00 - 1:15 in KEC 128
@@ -20,7 +20,8 @@ CS 482 - Senior Software Project II
 * Integrated Team Meetings: Fridays, 12:00 - 1:15 in KEC 118, KEC 128, or Project Workspace
 
 
-- **All other CS 482 Projects:**
+# **All other CS 482 Projects:**
+
 * Project Status Reports and MS Presentations/Demos: Mondays, 12:00 - 12:50 in KEC 118
 
 * Common Team Meetings: Fridays, 12:00 - 12:50 in KEC 118
