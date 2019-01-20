@@ -22,9 +22,9 @@ CS 482 - Senior Software Project II
 
 * CS 482 Project Status Reports and MS Presentations/Demos: Wed, 12:00 - 12:50 in KEC 118
 
-* Engineering Capstone 2 MS Presentations/Demos: Mon, 12:00 - 1:15 in KEC 128
+* Engineering Capstone 2 MS Presentations/Demos: Mon, 12:00 - 1:15 in KEC 128 or Project Workspace
 
-* Integrated Team Meetings: Fri, 12:00 - 1:15 in KEC 118, KEC 128, or Project Workspace
+* Integrated CS and Engineering Team Meetings: Fri, 12:00 - 1:15 in KEC 118, KEC 128, or Project Workspace
 
 # **All Other CS 482 Projects:**
 
@@ -42,9 +42,9 @@ This course is an elective course for Computer Science majors. It is a continuat
 
 ### Additional Course Description for YCAS Radio Telescope Project
 
-This semester will be a continuation of the work that was accomplished by the four CS481 Radio Telescope teams from the Fall.  Those began the design and development of various software components for the York County Astronomical Society (YCAS) Radio Telescope, which is being developed in collaboration with the 2018-2019 Radio Telescope Engineering Capstone team.  This project is being developed under the direction of the course instructor(s), members of the sponsoring organization (YCAS), recent York College Engineering and Computer Science graduates, and local industry partners.
+This semester will be a continuation of the work that was accomplished by the four CS481 Radio Telescope teams from the Fall.  Those teams began the design and development of various software components for the York County Astronomical Society (YCAS) Radio Telescope, which is being developed in collaboration with the 2018-2019 Radio Telescope Engineering Capstone team.  This project is being developed under the direction of the course instructor(s), members of the sponsoring organization (YCAS), recent York College Engineering and Computer Science graduates, and local industry partners.
 
-There are 4 teams of 3-4 people each, working in a coordinated fashion to develop the entire Radio Telescope software suite.  The four teams are:<br>
+There are four teams of 3-4 people each, working in a coordinated fashion to develop the entire Radio Telescope software suite.  The four teams are:<br>
 	* **Team Venus:** Front-End User Interface Website (Kotlin, Spring, Java)<br>
 	* **Team Mercury:** Back-End Server and Database<br>
 	* **Team Jupiter:** Control Room Application (C#, .NET)<br>
@@ -88,7 +88,7 @@ Your overall grade for the course will be determined as follows:
     - Milestone 3: 25%
     - Milestone 4: 30%
 	
-- Your individual grade for the course is your project grade multiplied by an individual effort factor determined by your peers and the the instructors.  If you are doing an individual project, your individual effort factor is 1, meaning that your individual grade will be the same as your project grade.
+- Your individual grade for the course is your project grade multiplied by an individual effort factor determined by your peers (through peer evaluations) and the the instructors.  If you are doing an individual project, your individual effort factor is 1, meaning that your individual grade will be the same as your project grade.
 
 Grades are assigned on a 100-point scale:
 
