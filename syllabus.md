@@ -26,7 +26,7 @@ CS 482 - Senior Software Project II
 
 * Integrated Team Meetings: Fri, 12:00 - 1:15 in KEC 118, KEC 128, or Project Workspace
 
-# **All other CS 482 Projects:**
+# **All Other CS 482 Projects:**
 
 **Meeting times:**
 
@@ -35,10 +35,26 @@ CS 482 - Senior Software Project II
 * Common Team Meetings: Fri, 12:00 - 12:50 in KEC 118
 
 
-Course Description
+General Course Description
 ------------------
 
 This course is an elective course for Computer Science majors. It is a continuation of CS481 (Senior Software Project I). It is also to be taken by the student (or student team) provided the project begun in CS481 is considered to be large enough to warrant two full semesters of project activity. The course instructor and members of the sponsoring organization will determine if this condition is met. The two most likely cases are: projects of a type that have taken two semesters when they have been completed by student-industry teams before, or projects which grow into a larger project as unforeseen positive results in CS481 warrant further investigation into a fruitful area(s) that will take another semester to complete.
+
+### Additional Course Description for YCAS Radio Telescope Project
+
+This semester will be a continuation of the work that was accomplished by the four CS481 Radio Telescope teams from the Fall.  Those began the design and development of various software components for the York County Astronomical Society (YCAS) Radio Telescope, which is being developed in collaboration with the 2018-2019 Radio Telescope Engineering Capstone team.  This project is being developed under the direction of the course instructor(s), members of the sponsoring organization (YCAS), recent York College Engineering and Computer Science graduates, and local industry partners.
+
+There are 4 teams of 3-4 people each, working in a coordinated fashion to develop the entire Radio Telescope software suite.  The four teams are:<br>
+	* **Team Venus:** Front-End User Interface Website (Kotlin, Spring, Java)<br>
+	* **Team Mercury:** Back-End Server and Database<br>
+	* **Team Jupiter:** Control Room Application (C#, .NET)<br>
+	* **Team Saturn:** Simulation, Visualization, and Virtualization (C#, .NET, Unity, JavaScript)<br>
+	
+The standard user interface for the Radio Telescope is a web-based GUI.  The website and control room application interface via the back-end server and database.  The simulation, visualization, and virtulization components, as well as an operational scale model of the radio telescope can substitute for the physical radio telescope, and will also be used as educational tools by YCAS.
+
+You will be working in close coordination with the Radio Telescope Engineering Capstone Team.  As such, the leader of each CS Senior Design team is required to attend the Engineering Capstone Team's status meetings and Milestone Presentations and Demos.  Some of the presentations and demos will likely be collaborative efforts betweeen the CS Senior Design Teams and the Engineering Capstone Team.
+
+The Radio Telescope Engineering Capstone Team Drive has been shared with you - you can view all of their accumulated information.  It is not, however, open for you to create or edit content.  You may use their work, but whatever content you do use, you must cite or reference the source.
 
 Prerequisites
 -------------
@@ -55,7 +71,7 @@ Course Structure and Expectations
 
 In this course, you may either continue the project you started in CS 481, or choose an alternate project to explore a different topic of interest. You may keep the same group members as CS481 or form new groups including an individual project.
 
-Each student will be required to maintain a bi-weekly journal documenting the work accomplished for the prior two weeks. Additionally, a series of graded milestones similar to CS481 will be based on demonstrations of your (team's) progress throughout the semester.
+Each student will be required to maintain a weekly journal documenting the work accomplished for the prior two weeks. Additionally, a series of graded milestones similar to CS481 will be based on demonstrations of your (team's) progress throughout the semester.
 
 Policies
 --------
@@ -65,11 +81,13 @@ Policies
 Your overall grade for the course will be determined as follows:
 
 - Your project grade is a weighted average of an initial proposal and four milestone grades:
+
     - Initial proposal: 10%
     - Milestone 1: 15%
     - Milestone 2: 20%
     - Milestone 3: 25%
     - Milestone 4: 30%
+	
 - Your individual grade for the course is your project grade multiplied by an individual effort factor determined by your peers and the the instructors.  If you are doing an individual project, your individual effort factor is 1, meaning that your individual grade will be the same as your project grade.
 
 Grades are assigned on a 100-point scale:
@@ -96,25 +114,49 @@ There are no exams for this course.
 
 The overall grade for the course will be determined by the progress made on the chosen project through a series of four milestones. Each group will be expected to demonstrate a working **system** for each milestone and discuss the progress made from the previous one. It is very important to make continuous incremental progress throughout the semester on a weekly basis.
 
+### Attendance Policy
+
+**Attendance at every weekly meeting is mandatory**.  If you must miss a meeting, for whatever reason, you must inform your team leader and the instructor as soon as possible.
+
 ### Academic Integrity
 
 York College’s mission statement stipulates that strict adherence to principles of academic honesty is expected of all students. Therefore, academic dishonesty will not be tolerated at York College. Academic dishonesty refers to actions such as, but not limited to, cheating, plagiarism, fabricating research, falsifying academic documents, etc., and includes all situations where students make use of the work of others and claim such work as their own.
 
-The following policy pertains to all graded work in this course:
+When a faculty member believes a student has committed an act of academic
+dishonesty, the faculty member must promptly notify the student in writing
+and obtain confirmation of notification from the student.  The faculty
+member then has ten business days from that written notification to
+the student to report the incident to the Dean of Academic Affairs and
+the Department Chair. Documentation related to instances of academic
+dishonesty will be kept on file in the student's permanent record. The
+faculty member has full discretion to determine a suitable penalty for
+the student, up to a course grade of 0.  This discretion is limited to
+the course in which the dishonesty took place.  Students may not withdraw
+from a course in which they have been accused of academic dishonesty,
+unless and until the accusation is withdrawn by the faculty member or
+is overturned by the Student Welfare Committee or the Dean of Academic
+Affairs.
 
-> All graded (individual) assignments are to be completed individually. I encourage you to discuss high level concepts with other students, but any work you submit **must be yours alone**.
->
-> Direct copying of solutions or work from other students, web sites, or other sources **is absolutely forbidden under any circumstances**.
->
-> Any sources (books, websites, articles, fellow students, etc.), except for the course textbook and lecture notes, that you consult in completing an assignment **must be properly acknowledged**. In general, I strongly discourage you from using any resource not explicitly listed in the course syllabus or on the course web page but rather asking the instructor for assistance.
+Students who believe they have been unjustly charged or sanctioned must
+discuss the situation with the faculty member and have 10 business
+days thereafter to submit an appeal to Student Welfare Committee
+through the Dean of Academic Affairs. If an appeal is filed, the
+Student Welfare Committee will then conduct a hearing to review the
+charge and/or sanction.  In the case of an egregious first offense, the
+faculty member may request that the Student Welfare Committee conduct a
+hearing and determine a sanction, which may involve academic probation,
+suspension or dismissal from the College.
 
-When a faculty member believes a student has committed an act of academic dishonesty, the faculty member must inform the student in writing and then has ten business days from that written notification to the student to report the incident to the Dean of Academic Affairs and the Department Chair. Documentation related to instances of academic dishonesty will be kept on file in the student’s permanent record. If the academic dishonesty is the student’s first offense, the faculty member will have the discretion to decide on a suitable sanction up to a grade of 0 for the course. Students are not permitted to withdraw from a course in which they have been accused of academic dishonesty.
+If the Dean of Academic Affairs determines that the academic dishonesty is
+the student's second offense, the Dean will provide written notification
+to the student, the faculty member, and the Department Chair. The Student
+Welfare Committee will automatically conduct a hearing to review the
+charge and decide on an appropriate sanction, which will involve academic
+probation, suspension or dismissal from the College. Students who believe
+the Student Welfare Committee has unjustly sanctioned them may submit
+a written appeal to the Dean of Academic Affairs within 72 hours of
+receiving notification of the Student Welfare Committee's sanction.
 
-### Attendance
-
-Students are expected to attend all scheduled classes and read the appropriate text material prior to class. If you must miss a class, it is your responsibility to notify the professor prior to class. Students are responsible for all material covered in class.
-
-You may work ahead and submit any assignments **early**, but you **must not** fall behind. Class time is intended to be used for answering questions about the reading, labs, and assignments. You are responsible for keeping up with the reading assignments as described in the schedule.
 
 ### Professionalism
 
@@ -131,7 +173,7 @@ We expect you to conduct yourself as a professional in this course. Professional
 -   Attentive behavior during class sessions, avoiding personal or social use of cell phones, laptops, or other electronic devices;
 -   Acknowledgement of the Kinsley Engineering Center as a professional workplace, and treatment of this facility as a business or office space, not as an informal space.
 
-I reserve the right to enforce this code through the York College Code of Student Conduct.
+We reserve the right to enforce this code through the York College Code of Student Conduct.
 
 ### Use of Personal Technology in the Classroom
 
