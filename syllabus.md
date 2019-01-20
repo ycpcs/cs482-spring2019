@@ -8,19 +8,26 @@ CS 482 - Senior Software Project II
 
 **Spring 2019**
 
-Class times:
+**Webpage:**  [https://ycpcs.github.io/cs482-spring2019](https://ycpcs.github.io/cs482-spring2019/)
 
-- Radio Telescope Project:
-* CS 482 Project Status Reports and MS Presentations/Demos: Wednesdays, 12:00 - 12:50 PM in KEC 118
+**Meeting times:**
+
+- **Radio Telescope Project:**
+* CS 482 Project Status Reports and MS Presentations/Demos: Wednesdays, 12:00 - 12:50 in KEC 118
+
 * Engineering Capstone 2 MS Presentations/Demos: Mondays, 12:00 - 1:15 in KEC 128
-* Integrated Team Meetings: Fridays, 12:00 - 12:50 in KEC 118
 
-- All other CS 482 Projects:
-* Project Status Reports and MS Presentations/Demos: Mondays, 12:00-12:50 PM in KEC 118
+* Integrated Team Meetings: Fridays, 12:00 - 1:15 in KEC 118, KEC 128, or Project Workspace
+
+
+- **All other CS 482 Projects:**
+* Project Status Reports and MS Presentations/Demos: Mondays, 12:00 - 12:50 in KEC 118
+
+* Common Team Meetings: Fridays, 12:00 - 12:50 in KEC 118
 
 Instructors:
 
-- [David babcock](http://faculty.ycp.edu/~dbabcock), <dbabcock@ycp.edu>, Office hours (KEC 111) TBD, or by arrangement
+- [David Babcock](http://faculty.ycp.edu/~dbabcock), <dbabcock@ycp.edu>, Office hours (KEC 111) TBD, or by arrangement
 - [Don Hake](http://faculty.ycp.edu/~djhake2/), <djhake2@ycp.edu>, Office hours (KEC 137) M-W-F: 10-11, M-W: 1:00 to 2:00, or by arrangement
 
 Course Description
