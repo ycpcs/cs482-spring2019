@@ -1,0 +1,8 @@
+baseurl: "//ycpcs.github.io/cs482-spring2019"
+markdown: kramdown
+highlighter: rouge
+coursename: "CS 482"
+
+kramdown:
+    input: GFM
+    hard_wrap: false
