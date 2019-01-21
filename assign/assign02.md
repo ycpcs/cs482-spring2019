@@ -3,7 +3,9 @@ layout: default
 title: "Assignment 2: Milestone 1"
 ---
 
-Due: Monday, Feb 12th in class
+Due: Monday, Feb 25th in class (Projects other than Radio Telescope)
+
+Due: Wednesday, Feb 27th in class (Radio Telescope Project)
 
 # Your task
 
@@ -20,7 +22,7 @@ Your second task is to document requirements to be addressed in [Milestone 2](as
 
 # Deliverables
 
-There are no specific deliverables for this assignment other than the demonstration (including UML model), documentation of individual progress, and documentation of requirements to be addressed in the next milestone.
+There are no specific deliverables for this assignment other than the demonstration (including UML model, DB schema, and block diagrams of inter-related parts), documentation of individual progress, and documentation of requirements to be addressed in the next milestone.
 
 <!-- vim:set wrap: -->
 <!-- vim:set linebreak: -->

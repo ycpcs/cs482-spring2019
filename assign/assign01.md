@@ -3,7 +3,7 @@ layout: default
 title: "Assignment 1: Initial Proposal"
 ---
 
-Due: Wednesday, Jan 24th by 11:59 PM
+Due: Saturday, February 2nd by 7:00 am
 
 # Your Task
 
@@ -15,7 +15,7 @@ There are three deliverables.
 
 ## Proposal description
 
-Using Google Docs, write a short (2-3 page) proposal describing your project.  Describe what problem is it intended to solve, who are the users, what languages/frameworks/technologies do you plan to use, etc.  Use diagrams as appropriate (e.g., user interface sketches.)
+Using Google Docs, write a short (4-5 page) proposal describing your project.  Describe what problem it is intended to solve, who are the users, what languages/frameworks/technologies you plan to use, etc.  Use diagrams as appropriate (e.g., user interface sketches.)
 
 <div class="callout">
 <b>Important</b>: Please discuss your project idea with at least one of the instructors before you write the proposal.  We will give you feedback on whether your idea is sufficiently interesting and feasible.
@@ -31,7 +31,7 @@ Use your issue tracker to document the requirements that you plan to address in 
 
 # Submitting
 
-Share your proposal document with both instructors (<djhake2@ycp.edu> and <dhovemey@ycp.edu>), granting write permission.
+Share your proposal document with both instructors (<djhake2@ycp.edu> and <dbabcock@ycp.edu>), granting editing permission.
 
 <!-- vim:set wrap: -->
 <!-- vim:set linebreak: -->
