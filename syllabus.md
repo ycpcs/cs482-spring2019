@@ -3,7 +3,7 @@ layout: default
 title: "Syllabus"
 ---
 
-CS 482 - Senior Software Project II
+CS 482 - Senior Software Project II (YCAS Radio Telescope Project)
 ===================================
 
 **Spring 2019**
@@ -12,28 +12,17 @@ CS 482 - Senior Software Project II
 
 **Instructors:**
 
-- [David Babcock](http://faculty.ycp.edu/~dbabcock), <dbabcock@ycp.edu>, Office hours (KEC 111) TBD, or by arrangement
+- [David Babcock](http://faculty.ycp.edu/~dbabcock), <dbabcock@ycp.edu>, Office hours (KEC 111) M: 9-10, Tu: 8:30-9:30, W: 1-2, Th: 1-3, or by arrangement
 
 - [Don Hake](http://faculty.ycp.edu/~djhake2/), <djhake2@ycp.edu>, Office hours (KEC 137) M-W-F: 10-11, M-W: 1-2, or by arrangement
-
-# **Radio Telescope Project:**
 
 **Meeting times:**
 
 * CS 482 Project Status Reports and MS Presentations/Demos: Wed, 12:00 - 12:50 in KEC 118
 
-* Engineering Capstone 2 MS Presentations/Demos: Mon, 12:00 - 1:15 in KEC 128 or Project Workspace
+* Engineering Capstone 2 MS Presentations/Demos: Mon, 12:00 - 1:15 in KEC 118, KEC 128 or Project Workspace
 
 * Integrated CS and Engineering Team Meetings: Fri, 12:00 - 1:15 in KEC 118, KEC 128, or Project Workspace
-
-# **All Other CS 482 Projects:**
-
-**Meeting times:**
-
-* Project Status Reports and MS Presentations/Demos: Mon, 12:00 - 12:50 in KEC 118
-
-* Common Team Meetings: Fri, 12:00 - 12:50 in KEC 118
-
 
 General Course Description
 ------------------
@@ -42,19 +31,21 @@ This course is an elective course for Computer Science majors. It is a continuat
 
 ### Additional Course Description for YCAS Radio Telescope Project
 
-This semester will be a continuation of the work that was accomplished by the four CS481 Radio Telescope teams from the Fall.  Those teams began the design and development of various software components for the York County Astronomical Society (YCAS) Radio Telescope, which is being developed in collaboration with the 2018-2019 Radio Telescope Engineering Capstone team.  This project is being developed under the direction of the course instructor(s), members of the sponsoring organization (YCAS), recent York College Engineering and Computer Science graduates, and local industry partners.
+This semester (Spring 2019) will be a continuation of the work that was accomplished by the four CS481 Radio Telescope teams from the Fall.  Those teams began the design and development of various software components for the York County Astronomical Society (YCAS) Radio Telescope, which is being developed in collaboration with the 2018-2019 Radio Telescope Engineering Capstone team.  This project is being developed under the direction of the course instructor(s), members of the sponsoring organization (YCAS), recent York College Engineering and Computer Science graduates, and local industry partners.
 
-There are four teams of 3-4 people each, working in a coordinated fashion to develop the entire Radio Telescope software suite.  The four teams are:<br>
+There are currently four teams of 3-4 people each, working in a coordinated fashion to develop the entire Radio Telescope software suite.  The four teams are:<br>
 	* **Team Venus:** Front-End User Interface Website (Kotlin, Spring, Java)<br>
 	* **Team Mercury:** Back-End Server and Database<br>
 	* **Team Jupiter:** Control Room Application (C#, .NET)<br>
 	* **Team Saturn:** Simulation, Visualization, and Virtualization (C#, .NET, Unity, JavaScript)<br>
+
+There might be a need for a fifth team to develop a mobile application in support of the Radio Telescope, and/or individual proejcts in support of the project.
 	
 The standard user interface for the Radio Telescope is a web-based GUI.  The website and control room application interface via the back-end server and database.  The simulation, visualization, and virtulization components, as well as an operational scale model of the radio telescope can substitute for the physical radio telescope, and will also be used as educational tools by YCAS.
 
 You will be working in close coordination with the Radio Telescope Engineering Capstone Team.  As such, the leader of each CS Senior Design team is required to attend the Engineering Capstone Team's status meetings and Milestone Presentations and Demos.  Some of the presentations and demos will likely be collaborative efforts betweeen the CS Senior Design Teams and the Engineering Capstone Team.
 
-The Radio Telescope Engineering Capstone Team Drive has been shared with you - you can view all of their accumulated information.  It is not, however, open for you to create or edit content.  You may use their work, but whatever content you do use, you must cite or reference the source.
+The Radio Telescope Engineering Capstone Team Drives (Capstone I and II) have been shared with you - you can view all of their accumulated information.  It is not, however, open for you to create or edit content.  You may use their work, but whatever content you do use, you must cite or reference the source.
 
 Prerequisites
 -------------
@@ -69,9 +60,9 @@ No textbook required.
 Course Structure and Expectations
 ---------------------------------
 
-In this course, you may either continue the project you started in CS 481, or choose an alternate project to explore a different topic of interest. You may keep the same group members as CS481 or form new groups including an individual project.
+For this semester (Spring 2019), CS 482 will concentrate exclusively on the further development of the YCAS Radio Telescope project.  This will be in the form of multiple teams as shown above, possibly supplemented with individual projects in support of the Radio Telescope project, based on your interests.
 
-Each student will be required to maintain a weekly journal documenting the work accomplished for the prior two weeks. Additionally, a series of graded milestones similar to CS481 will be based on demonstrations of your (team's) progress throughout the semester.
+Each student will be required to maintain a weekly journal documenting their work accomplished for each week. Additionally, a series of graded milestones similar to CS481 will be based on demonstrations of your (team's) progress throughout the semester.
 
 Policies
 --------

@@ -3,7 +3,9 @@ layout: default
 title: "Assignment 4: Milestone 3"
 ---
 
+<!--
 Due: Monday, Apr 15th in class (Projects other than Radio Telescope)
+-->
 
 Due: Wednesday, Apr 17th in class (Radio Telescope Project)
 
