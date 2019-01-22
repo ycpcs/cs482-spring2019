@@ -3,7 +3,7 @@ layout: default
 title: "Syllabus"
 ---
 
-CS 482 - Senior Software Project II (YCAS Radio Telescope Project)
+CS 482 - Senior Software Project II<br>(YCAS Radio Telescope Project)
 ===================================
 
 **Spring 2019**

@@ -9,7 +9,7 @@ Due: Monday, Apr 15th in class (Projects other than Radio Telescope)
 
 Due: Wednesday, Apr 17th in class (Radio Telescope Project)
 
-**NOTE: Do not make plans to leave for Spring Break until after this Milestone has been presented.**
+**NOTE: Do not plan on leaving for Spring Break until after this Milestone has been presented.**
 
 # Your task
 

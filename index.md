@@ -3,7 +3,7 @@ layout: default
 title: Home page
 ---
 
-# Welcome to CS 482, Spring 2019!
+# Welcome to CS 482, Spring 2019!<br>YCAS Radio Telescope Project
 
 This is the website for CS 482, Spring 2019 at York College.
 All information about the course will be posted here.
