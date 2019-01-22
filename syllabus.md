@@ -39,7 +39,7 @@ There are currently four teams of 3-4 people each, working in a coordinated fash
 	* **Team Jupiter:** Control Room Application (C#, .NET)<br>
 	* **Team Saturn:** Simulation, Visualization, and Virtualization (C#, .NET, Unity, JavaScript)<br>
 
-There might be a need for a fifth team to develop a mobile application in support of the Radio Telescope, and/or individual proejcts in support of the project.
+There might be a need for a fifth team to develop a mobile application in support of the Radio Telescope, and/or other individual projects in support of the Radio Telescope software.
 	
 The standard user interface for the Radio Telescope is a web-based GUI.  The website and control room application interface via the back-end server and database.  The simulation, visualization, and virtulization components, as well as an operational scale model of the radio telescope can substitute for the physical radio telescope, and will also be used as educational tools by YCAS.
 
