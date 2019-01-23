@@ -1,23 +1,21 @@
 ---
 layout: default
-title: "Assignment 5: Milestone 4"
+title: "Assignment 5: Milestone 4 (Final Presentation and Demonstration)"
 ---
 
-**Report:** Thursday, May 9th by 7:00 am
+**Final Presentation/Demo:** Friday, May 10th, 5:00 - 7:00 pm (in conjunction with the Engineering Capstone Presentation/Demo)
+
+**Report:** Monday, May 13th, by 7:00 am
 
 **Final Self/Peer Evaluation:** Monday, May 13th, by 7:00 am.
-
-**Final Presentations/Demos:** 
 
 <!--
 - **Projects other than Radio Telescope:** Monday, May 13th, 12:45 - 2:45 (final exam period)
 -->
 
-- **Radio Telescope Project:** Monday, May 13th, 5:00 - 7:00 and Wednesday, May 15th, 5:00 - 7:00 (in conjunction with Capstone Presentation/Demo)
+# Your tasks
 
-# Your task
-
-Your main task is to demonstrate the final version of your project.  The demonstration should focus on the features addressing the requirements for Milestone 4, but should also incorporate important features from previous milestones in order to give an overall assessment of what your system is capable of.
+Your main task is to demonstrate the final version of your project, in conjunction with the Engineering Capstone Team.  The demonstration should focus on the features addressing the requirements for Milestone 4, but should also incorporate important features from previous milestones in order to give an overall assessment of what your system is capable of.
 
 <!--
 **Projects other than the Radio Telescope:** You or your group are also resposible for writing a 4-5 page report documenting what you accomplished.  The report should focus on what you learned in the experience of working on the project.  Suggested outline:

@@ -1,15 +1,13 @@
 ---
 layout: default
-title: "Assignment 4: Milestone 3"
+title: "Assignment 4: Milestone 3 and Team Posters"
 ---
 
 <!--
 Due: Monday, Apr 15th in class (Projects other than Radio Telescope)
 -->
 
-Due: Wednesday, Apr 17th in class (Radio Telescope Project)
-
-**NOTE: Do not plan on leaving for Spring Break until after this Milestone has been presented.**
+Due: Wednesday, May 1st in class (Radio Telescope Project)
 
 # Your task
 
@@ -25,8 +23,9 @@ In addition, you should document your individual contributions to the project.  
 Your second task is to document requirements to be addressed in [Milestone 4](assign05.html), which is *the final milestone*.  You should create a new milestone (i.e., for Milestone 4) in your issue tracker, document requirements as issues in the form of use cases or user stories, and associate the issues with Milestone 4.
 
 # Deliverables
+Each team must also develop a poster for presentation at the Engineering and Computer Science Expo, which will be held on Thursday, May 2nd from 3:00 to 6:00 in Kinsley.  The poster is due (printed and mounted on poster board) in class the same day as Milestone 3 (May 1st).
 
-There are no specific deliverables for this assignment other than the demonstration (including UML model, DB schema, and block diagrams of inter-related parts), documentation of individual progress, and documentation of requirements to be addressed in the next milestone.
+The only other specific deliverables for this assignment are the demonstration (including UML model, DB schema, and block diagrams of inter-related parts), documentation of individual progress, and documentation of requirements to be addressed in the final milestone.
 
 <!-- vim:set wrap: -->
 <!-- vim:set linebreak: -->
