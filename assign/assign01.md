@@ -3,7 +3,7 @@ layout: default
 title: "Assignment 1: Initial Proposal"
 ---
 
-Due: Saturday, February 2nd by 7:00 am
+Due: [See the Assignments page for due dates](../assign/index.html)
 
 # Your Task
 

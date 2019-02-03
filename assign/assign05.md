@@ -9,24 +9,11 @@ title: "Assignment 5: Milestone 4 (Final Presentation and Demonstration)"
 
 **Final Self/Peer Evaluation:** Monday, May 13th, by 7:00 am.
 
-<!--
-- **Projects other than Radio Telescope:** Monday, May 13th, 12:45 - 2:45 (final exam period)
--->
+# Deliverables
 
-# Your tasks
+Your main task is to demonstrate the final version of your project, in conjunction with the Engineering Capstone Team.  The demonstration should focus on the features addressing the requirements for Milestone 4, but should also incorporate important features from previous milestones in order to give an overall assessment of what your system is capable of.  This presentation will showcase the final working, fully-integrated Radio Telescope for an audience to include the YCAS members, the director of York County Parks, faculty members, family and friends of the Radio Telescope team members, students, alumni, and industry partners.  It will be the culminating experience of your college career.
 
-Your main task is to demonstrate the final version of your project, in conjunction with the Engineering Capstone Team.  The demonstration should focus on the features addressing the requirements for Milestone 4, but should also incorporate important features from previous milestones in order to give an overall assessment of what your system is capable of.
-
-<!--
-**Projects other than the Radio Telescope:** You or your group are also resposible for writing a 4-5 page report documenting what you accomplished.  The report should focus on what you learned in the experience of working on the project.  Suggested outline:
-
-* Background and problem description
-* Overview of design
-* Implementation experience
-* Assessment of final product
--->
-
-**Radio Telescope Project:** Each team is responsible for giving a presentation/demo and writing a comprehensive document similar in scope to the final presentations and technical reports that you provided for CS 481 in the Fall.  Follow the [CS481 guidelines](https://ycpcs.github.io/cs481-fall2018-102-RT/assign/assign07.html).
+Each team is also responsible for writing a comprehensive document similar in scope to the final presentations and technical reports that you provided for CS 481 in the Fall.  Follow the [CS481 guidelines](https://ycpcs.github.io/cs481-fall2018-102-RT/assign/assign07.html).
 
 **Use Google Docs to write the report.  There will be no draft report submission - your report should be complete and thoroughly proofread.  Submit the final report in PDF format via email to your instructors by the due date listed above.
 

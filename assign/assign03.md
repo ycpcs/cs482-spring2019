@@ -3,11 +3,7 @@ layout: default
 title: "Assignment 3: Milestone 2"
 ---
 
-<!--
-Due: Monday, Mar 18th in class (Projects other than Radio Telescope)
--->
-
-Due: Wednesday, Apr 3rd in class (Radio Telescope Project)
+Due: [See the Assignments page for due dates](../assign/index.html)
 
 # Your task
 
@@ -23,6 +19,7 @@ In addition, you should document your individual contributions to the project.  
 Your second task is to document requirements to be addressed in [Milestone 3](assign04.html).  You should create a new milestone (i.e., for Milestone 3) in your issue tracker, document requirements as issues in the form of use cases or user stories, and associate the issues with Milestone 3.
 
 # Deliverables
+You will be conducting this milestone presentation in conjunction with the Radio Telescope Engineering Capstone presentatio and demo.  As such, you mmust your integrate and coordinate your presentation and demo with their's.  We will be rehearsing parts of the presentation and demo during the Wednesday class session immediately prior to this milestone presentation.
 
 There are no specific deliverables for this assignment other than the demonstration (including UML model, DB schema, and block diagrams of inter-related parts), documentation of individual progress, and documentation of requirements to be addressed in the next milestone.
 

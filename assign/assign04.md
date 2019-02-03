@@ -3,11 +3,7 @@ layout: default
 title: "Assignment 4: Milestone 3 and Team Posters"
 ---
 
-<!--
-Due: Monday, Apr 15th in class (Projects other than Radio Telescope)
--->
-
-Due: Wednesday, May 1st in class (Radio Telescope Project)
+Due: [See the Assignments page for due dates](../assign/index.html)
 
 # Your task
 
@@ -23,7 +19,9 @@ In addition, you should document your individual contributions to the project.  
 Your second task is to document requirements to be addressed in [Milestone 4](assign05.html), which is *the final milestone*.  You should create a new milestone (i.e., for Milestone 4) in your issue tracker, document requirements as issues in the form of use cases or user stories, and associate the issues with Milestone 4.
 
 # Deliverables
-Each team must also develop a poster for presentation at the Engineering and Computer Science Expo, which will be held on Thursday, May 2nd from 3:00 to 6:00 in Kinsley.  The poster is due (printed and mounted on poster board) in class the same day as Milestone 3 (May 1st).
+You will be conducting this milestone presentation in conjunction with the Radio Telescope Engineering Capstone presentatio and demo.  As such, you mmust your integrate and coordinate your presentation and demo with their's.  We will be rehearsing parts of the presentation and demo during the Wednesday class session immediately prior to this milestone presentation.
+
+You must develop **team posters**, ""presentations**, and **demos** to be presented at the annual **Engineering and Computer Science Expo**, which will be held on Thursday, 5-2-2019 from 2:00 to 6:30 in Kinsley.  **I strongly suggest that you make arrangements with your other professors ahead of time to be excused from any classes you might have that day - as you will likely need the time for final preparations for the E&CS Expo**.  The posters are due (printed and mounted on poster board) in class on Wednesday, 5-1-2019.  That class session will be used to rehearse your presentations and demos for the E&CS Expo the next day.
 
 The only other specific deliverables for this assignment are the demonstration (including UML model, DB schema, and block diagrams of inter-related parts), documentation of individual progress, and documentation of requirements to be addressed in the final milestone.
 
