@@ -14,6 +14,7 @@ All information about the course will be posted here.
 * [Assignments](assign/index.html)
 
 ## News
+* **Feb 20** &mdash; Moved status report from Weds, 2-20-19 to Mon, 2-25-19 due to snow
 
 * **Feb 3** &mdash; Updated the Milestone dates and times - please see the [Assignments page](assign/index.html) for the new dates
 
