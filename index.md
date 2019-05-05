@@ -14,7 +14,11 @@ All information about the course will be posted here.
 * [Assignments](assign/index.html)
 
 ## News
-* **Apr 9 ** &mdash; Moed status repot from Weds, 4-15-19 to Mon, 4-13-19 to accommodate Engineering Capstone MS2 on Weds, 4-15-19.
+* **Apr 30 ** &mdash; The Final Presentation and Demo (MS4) for both CS Senior Design and Engineering Capstone will be Friday, 5-10-19, from 5:00p to 7:00p in KEC125, to be followed by a celebratory dinner at 7:30p at Wood Fire Italian Grill at the entrance to South York Plaza.
+
+* **Apr 23 ** &mdash; Milestone 3 for both CS Senior Design and Engineering Capstone will be Thursday, 5-2-19, as part of the Engineering and Computer Science Expo.
+
+* **Apr 9 ** &mdash; Moved status report from Weds, 4-15-19 to Mon, 4-13-19 to accommodate Engineering Capstone MS2 on Weds, 4-15-19.
 
 * **Feb 20** &mdash; Moved status report from Weds, 2-20-19 to Mon, 2-25-19 due to snow
 
