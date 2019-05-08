@@ -5,9 +5,9 @@ title: "Assignment 5: Milestone 4 (Final Presentation and Demonstration)"
 
 **Final Presentation/Demo:** Friday, May 10th, 5:00 - 7:00 pm (in conjunction with the Engineering Capstone Presentation/Demo)
 
-**Report:** Monday, May 13th, by 7:00 am
+**Report:** Tuesday, May 14th, by 7:00 am via Google Drive, and then in PDF form to Professor Hake and Dr. Babcock.
 
-**Final Self/Peer Evaluation:** Monday, May 13th, by 7:00 am.
+**Final Self/Peer Evaluation:** Tuesday, May 14th, by 7:00 am via email to Professor Hake and Dr. Babcock.
 
 # Deliverables
 
