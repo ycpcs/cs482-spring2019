@@ -14,6 +14,11 @@ All information about the course will be posted here.
 * [Assignments](assign/index.html)
 
 ## News
+
+* **May 7** &mdash; Final Technical Reports are due Tuesday, May 14th, by 7:00 am on the Google Team Drive, and then emailed in PDF form to Professor Hake and Dr. Babcock.
+
+* **May 7** &mdash; Final Self/Peer Evaluations are due Tuesday, May 14th, by 7:00 am in PDF form via email to Professor Hake and Dr. Babcock.
+
 * **Apr 30 ** &mdash; The Final Presentation and Demo (MS4) for both CS Senior Design and Engineering Capstone will be Friday, 5-10-19, from 5:00p to 7:00p in KEC125, to be followed by a celebratory dinner at 7:30p at Wood Fire Italian Grill at the entrance to South York Plaza.
 
 * **Apr 23 ** &mdash; Milestone 3 for both CS Senior Design and Engineering Capstone will be Thursday, 5-2-19, as part of the Engineering and Computer Science Expo.
