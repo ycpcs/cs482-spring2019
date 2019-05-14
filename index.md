@@ -15,7 +15,7 @@ All information about the course will be posted here.
 
 ## News
 
-* **May 7** &mdash; Final Technical Reports are due Tuesday, May 14th, by 7:00 am on the Google Team Drive, and then emailed in PDF form to Professor Hake and Dr. Babcock.
+* **May 13** &mdash; Final Technical Reports are now due Wednesday, May 15th, by Noon am on the Google Team Drive, and then emailed in PDF form to Professor Hake and Dr. Babcock.
 
 * **May 7** &mdash; Final Self/Peer Evaluations are due Tuesday, May 14th, by 7:00 am in PDF form via email to Professor Hake and Dr. Babcock.
 
